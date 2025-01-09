@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JMiguelSala
-- 👀 I’m interested in Python, R, Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning Python, R and Machine Learning.
-- 💞️ I'm really new in these fields, but I love them.
-- 📫 How to reach me: You can contact me through my personal website or social media.
+- 💻 I’m interested in Python, R, Data Science and Machine Learning.
+- 🧑🏻‍🎓 I’m currently studying at Universitat Oberta de Catalunya (UOC).
+- 💚 I like to create solutions with a positive social impact.
+- 📫 How to reach me: You can contact me through my website or social media.
 
 <!---
 JMiguelSala/JMiguelSala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
