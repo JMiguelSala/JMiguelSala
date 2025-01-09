@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMiguelSala
 - 💻 I’m interested in Python, R, Data Science and Machine Learning.
 - 🧑🏻‍🎓 I’m currently studying at Universitat Oberta de Catalunya (UOC).
-- 💚 I like to create solutions with a positive social impact.
+- 💚 I love to create solutions with a positive social impact.
 - 📫 How to reach me: You can contact me through my website or social media.
 
 <!---
